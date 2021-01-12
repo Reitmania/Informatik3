@@ -1,4 +1,4 @@
-class hanoi_stefan {
+class Hanoi {
 
     static int n_bewegungen = 0;
 
