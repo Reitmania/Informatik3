@@ -19,5 +19,7 @@ class Hanoi {
         System.out.println("Es werden " + n_bewegungen + " Bewegungen benötigt.");
         System.out.println("Das sind ca. " + n_bewegungen/60 + " Minuten.");
         System.out.println("Das sind ca. " + n_bewegungen/360 + " Stunden.");
+        
+        System.out.println("git test");
     }
 }
