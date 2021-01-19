@@ -23,8 +23,6 @@ class BubbleSort
         ob.bubbleSort(arr);
         System.out.println("Sortieres Array");
         System.out.println(Arrays.toString(arr));
-        
-        System.out.println("new git command");
     }
 }
 
