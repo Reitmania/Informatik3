@@ -2,7 +2,7 @@ import java.util.*;
 import java.io.FileNotFoundException;
 import java.io.File;
 
-public class Quicksort {
+class Quicksort {
     public static int[] intArr = {};
 
     public int[] sort(int l, int r) {
